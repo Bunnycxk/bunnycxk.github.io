@@ -111,12 +111,12 @@ a:hover, a:active {
 .content {
   height: auto;
   float: right;
-  width: 60%;
+  width: 65%;
   margin-top: 60px;
 }
 
 .page-top {
-  width: 60%;
+  width: 65%;
   position: fixed;
   right: 0;
   z-index: 3;
@@ -128,7 +128,7 @@ a:hover, a:active {
   list-style: none;
   padding: 18px 30px;
   float: left;
-  font-size: 12px;
+  font-size: 14px;
 }
 .page-top .nav li {
   position: relative;
@@ -143,7 +143,7 @@ a:hover, a:active {
 }
 .page-top .nav a.current {
   color: #5A5A5A;
-  padding-bottom: 22px;
+  padding-bottom: 15px;
   border-bottom: 1px solid #5A5A5A;
 }
 .page-top .information {
@@ -170,7 +170,7 @@ a:hover, a:active {
 }
 
 .sidebar {
-  width: 40%;
+  width: 35%;
   -webkit-background-size: cover;
   background-size: cover;
   background-color: #fff;
